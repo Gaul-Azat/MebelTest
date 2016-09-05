@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MebelTest</string>
+    <string name="order_tab">Заказы</string>
+    <string name="calculcation_tab">Расчеты</string>
+    <string name="news_tab">Новости</string>
+    <string name="no_news">Нет новостей</string>
+    <string name="no_orders">Нет заказов</string>
+    <string name="change_order_name_field">Введите название заказа:</string>
+    <string name="menu_logout">Выход</string>
+    <string name="menu_refresh">Обновить</string>
+    <string name="network_error_message">Не удалось установить соединение. Проверьте подключение к интернету.</string>
+    <string name="server_error_message">Сервер не отвечает, попробуйте позже.</string>
+</resources>
